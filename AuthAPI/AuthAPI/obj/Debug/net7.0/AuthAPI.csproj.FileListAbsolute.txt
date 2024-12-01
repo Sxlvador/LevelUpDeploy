@@ -1,0 +1,314 @@
+C:\Users\qxz4ln4\source\repos\AuthAPI\AuthAPI\obj\Debug\net7.0\AuthAPI.csproj.AssemblyReference.cache
+C:\Users\qxz4ln4\source\repos\AuthAPI\AuthAPI\obj\Debug\net7.0\AuthAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\qxz4ln4\source\repos\AuthAPI\AuthAPI\obj\Debug\net7.0\AuthAPI.AssemblyInfoInputs.cache
+C:\Users\qxz4ln4\source\repos\AuthAPI\AuthAPI\obj\Debug\net7.0\AuthAPI.AssemblyInfo.cs
+C:\Users\qxz4ln4\source\repos\AuthAPI\AuthAPI\obj\Debug\net7.0\AuthAPI.csproj.CoreCompileInputs.cache
+C:\Users\qxz4ln4\source\repos\AuthAPI\AuthAPI\obj\Debug\net7.0\AuthAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\qxz4ln4\source\repos\AuthAPI\AuthAPI\obj\Debug\net7.0\AuthAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\qxz4ln4\source\repos\AuthAPI\AuthAPI\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\qxz4ln4\source\repos\AuthAPI\AuthAPI\bin\Debug\net7.0\appsettings.json
+C:\Users\qxz4ln4\source\repos\AuthAPI\AuthAPI\bin\Debug\net7.0\AuthAPI.exe
+C:\Users\qxz4ln4\source\repos\AuthAPI\AuthAPI\bin\Debug\net7.0\AuthAPI.deps.json
+C:\Users\qxz4ln4\source\repos\AuthAPI\AuthAPI\bin\Debug\net7.0\AuthAPI.runtimeconfig.json
+C:\Users\qxz4ln4\source\repos\AuthAPI\AuthAPI\bin\Debug\net7.0\AuthAPI.dll
+C:\Users\qxz4ln4\source\repos\AuthAPI\AuthAPI\bin\Debug\net7.0\AuthAPI.pdb
+C:\Users\qxz4ln4\source\repos\AuthAPI\AuthAPI\bin\Debug\net7.0\Azure.Core.dll
+C:\Users\qxz4ln4\source\repos\AuthAPI\AuthAPI\bin\Debug\net7.0\Azure.Identity.dll
+C:\Users\qxz4ln4\source\repos\AuthAPI\AuthAPI\bin\Debug\net7.0\Humanizer.dll
+C:\Users\qxz4ln4\source\repos\AuthAPI\AuthAPI\bin\Debug\net7.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\qxz4ln4\source\repos\AuthAPI\AuthAPI\bin\Debug\net7.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\qxz4ln4\source\repos\AuthAPI\AuthAPI\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\qxz4ln4\source\repos\AuthAPI\AuthAPI\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\qxz4ln4\source\repos\AuthAPI\AuthAPI\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+C:\Users\qxz4ln4\source\repos\AuthAPI\AuthAPI\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\qxz4ln4\source\repos\AuthAPI\AuthAPI\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\qxz4ln4\source\repos\AuthAPI\AuthAPI\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\qxz4ln4\source\repos\AuthAPI\AuthAPI\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\qxz4ln4\source\repos\AuthAPI\AuthAPI\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\qxz4ln4\source\repos\AuthAPI\AuthAPI\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\qxz4ln4\source\repos\AuthAPI\AuthAPI\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+C:\Users\qxz4ln4\source\repos\AuthAPI\AuthAPI\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\qxz4ln4\source\repos\AuthAPI\AuthAPI\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\qxz4ln4\source\repos\AuthAPI\AuthAPI\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\qxz4ln4\source\repos\AuthAPI\AuthAPI\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\qxz4ln4\source\repos\AuthAPI\AuthAPI\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\qxz4ln4\source\repos\AuthAPI\AuthAPI\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\qxz4ln4\source\repos\AuthAPI\AuthAPI\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\qxz4ln4\source\repos\AuthAPI\AuthAPI\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Users\qxz4ln4\source\repos\AuthAPI\AuthAPI\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+C:\Users\qxz4ln4\source\repos\AuthAPI\AuthAPI\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\qxz4ln4\source\repos\AuthAPI\AuthAPI\bin\Debug\net7.0\Mono.TextTemplating.dll
+C:\Users\qxz4ln4\source\repos\AuthAPI\AuthAPI\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\qxz4ln4\source\repos\AuthAPI\AuthAPI\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\qxz4ln4\source\repos\AuthAPI\AuthAPI\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\qxz4ln4\source\repos\AuthAPI\AuthAPI\bin\Debug\net7.0\System.CodeDom.dll
+C:\Users\qxz4ln4\source\repos\AuthAPI\AuthAPI\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+C:\Users\qxz4ln4\source\repos\AuthAPI\AuthAPI\bin\Debug\net7.0\System.Drawing.Common.dll
+C:\Users\qxz4ln4\source\repos\AuthAPI\AuthAPI\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\qxz4ln4\source\repos\AuthAPI\AuthAPI\bin\Debug\net7.0\System.Memory.Data.dll
+C:\Users\qxz4ln4\source\repos\AuthAPI\AuthAPI\bin\Debug\net7.0\System.Runtime.Caching.dll
+C:\Users\qxz4ln4\source\repos\AuthAPI\AuthAPI\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\qxz4ln4\source\repos\AuthAPI\AuthAPI\bin\Debug\net7.0\System.Security.Permissions.dll
+C:\Users\qxz4ln4\source\repos\AuthAPI\AuthAPI\bin\Debug\net7.0\System.Windows.Extensions.dll
+C:\Users\qxz4ln4\source\repos\AuthAPI\AuthAPI\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\qxz4ln4\source\repos\AuthAPI\AuthAPI\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\qxz4ln4\source\repos\AuthAPI\AuthAPI\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\qxz4ln4\source\repos\AuthAPI\AuthAPI\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\qxz4ln4\source\repos\AuthAPI\AuthAPI\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\qxz4ln4\source\repos\AuthAPI\AuthAPI\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\qxz4ln4\source\repos\AuthAPI\AuthAPI\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\qxz4ln4\source\repos\AuthAPI\AuthAPI\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\qxz4ln4\source\repos\AuthAPI\AuthAPI\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\qxz4ln4\source\repos\AuthAPI\AuthAPI\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\qxz4ln4\source\repos\AuthAPI\AuthAPI\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\qxz4ln4\source\repos\AuthAPI\AuthAPI\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\qxz4ln4\source\repos\AuthAPI\AuthAPI\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\qxz4ln4\source\repos\AuthAPI\AuthAPI\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\qxz4ln4\source\repos\AuthAPI\AuthAPI\obj\Debug\net7.0\staticwebassets\msbuild.AuthAPI.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\qxz4ln4\source\repos\AuthAPI\AuthAPI\obj\Debug\net7.0\staticwebassets\msbuild.build.AuthAPI.props
+C:\Users\qxz4ln4\source\repos\AuthAPI\AuthAPI\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.AuthAPI.props
+C:\Users\qxz4ln4\source\repos\AuthAPI\AuthAPI\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.AuthAPI.props
+C:\Users\qxz4ln4\source\repos\AuthAPI\AuthAPI\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\qxz4ln4\source\repos\AuthAPI\AuthAPI\obj\Debug\net7.0\scopedcss\bundle\AuthAPI.styles.css
+C:\Users\qxz4ln4\source\repos\AuthAPI\AuthAPI\obj\Debug\net7.0\AuthAPI.csproj.CopyComplete
+C:\Users\qxz4ln4\source\repos\AuthAPI\AuthAPI\obj\Debug\net7.0\AuthAPI.dll
+C:\Users\qxz4ln4\source\repos\AuthAPI\AuthAPI\obj\Debug\net7.0\refint\AuthAPI.dll
+C:\Users\qxz4ln4\source\repos\AuthAPI\AuthAPI\obj\Debug\net7.0\AuthAPI.pdb
+C:\Users\qxz4ln4\source\repos\AuthAPI\AuthAPI\obj\Debug\net7.0\AuthAPI.genruntimeconfig.cache
+C:\Users\qxz4ln4\source\repos\AuthAPI\AuthAPI\obj\Debug\net7.0\ref\AuthAPI.dll
+C:\Users\CELL STUDIO\Desktop\AuthAPI\AuthAPI\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\CELL STUDIO\Desktop\AuthAPI\AuthAPI\bin\Debug\net7.0\appsettings.json
+C:\Users\CELL STUDIO\Desktop\AuthAPI\AuthAPI\bin\Debug\net7.0\AuthAPI.exe
+C:\Users\CELL STUDIO\Desktop\AuthAPI\AuthAPI\bin\Debug\net7.0\AuthAPI.deps.json
+C:\Users\CELL STUDIO\Desktop\AuthAPI\AuthAPI\bin\Debug\net7.0\AuthAPI.runtimeconfig.json
+C:\Users\CELL STUDIO\Desktop\AuthAPI\AuthAPI\bin\Debug\net7.0\AuthAPI.dll
+C:\Users\CELL STUDIO\Desktop\AuthAPI\AuthAPI\bin\Debug\net7.0\AuthAPI.pdb
+C:\Users\CELL STUDIO\Desktop\AuthAPI\AuthAPI\bin\Debug\net7.0\Azure.Core.dll
+C:\Users\CELL STUDIO\Desktop\AuthAPI\AuthAPI\bin\Debug\net7.0\Azure.Identity.dll
+C:\Users\CELL STUDIO\Desktop\AuthAPI\AuthAPI\bin\Debug\net7.0\Humanizer.dll
+C:\Users\CELL STUDIO\Desktop\AuthAPI\AuthAPI\bin\Debug\net7.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\CELL STUDIO\Desktop\AuthAPI\AuthAPI\bin\Debug\net7.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\CELL STUDIO\Desktop\AuthAPI\AuthAPI\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\CELL STUDIO\Desktop\AuthAPI\AuthAPI\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\CELL STUDIO\Desktop\AuthAPI\AuthAPI\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+C:\Users\CELL STUDIO\Desktop\AuthAPI\AuthAPI\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\CELL STUDIO\Desktop\AuthAPI\AuthAPI\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\CELL STUDIO\Desktop\AuthAPI\AuthAPI\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\CELL STUDIO\Desktop\AuthAPI\AuthAPI\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\CELL STUDIO\Desktop\AuthAPI\AuthAPI\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\CELL STUDIO\Desktop\AuthAPI\AuthAPI\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\CELL STUDIO\Desktop\AuthAPI\AuthAPI\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+C:\Users\CELL STUDIO\Desktop\AuthAPI\AuthAPI\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\CELL STUDIO\Desktop\AuthAPI\AuthAPI\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\CELL STUDIO\Desktop\AuthAPI\AuthAPI\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\CELL STUDIO\Desktop\AuthAPI\AuthAPI\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\CELL STUDIO\Desktop\AuthAPI\AuthAPI\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\CELL STUDIO\Desktop\AuthAPI\AuthAPI\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\CELL STUDIO\Desktop\AuthAPI\AuthAPI\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\CELL STUDIO\Desktop\AuthAPI\AuthAPI\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Users\CELL STUDIO\Desktop\AuthAPI\AuthAPI\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+C:\Users\CELL STUDIO\Desktop\AuthAPI\AuthAPI\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\CELL STUDIO\Desktop\AuthAPI\AuthAPI\bin\Debug\net7.0\Mono.TextTemplating.dll
+C:\Users\CELL STUDIO\Desktop\AuthAPI\AuthAPI\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\CELL STUDIO\Desktop\AuthAPI\AuthAPI\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\CELL STUDIO\Desktop\AuthAPI\AuthAPI\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\CELL STUDIO\Desktop\AuthAPI\AuthAPI\bin\Debug\net7.0\System.CodeDom.dll
+C:\Users\CELL STUDIO\Desktop\AuthAPI\AuthAPI\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+C:\Users\CELL STUDIO\Desktop\AuthAPI\AuthAPI\bin\Debug\net7.0\System.Drawing.Common.dll
+C:\Users\CELL STUDIO\Desktop\AuthAPI\AuthAPI\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\CELL STUDIO\Desktop\AuthAPI\AuthAPI\bin\Debug\net7.0\System.Memory.Data.dll
+C:\Users\CELL STUDIO\Desktop\AuthAPI\AuthAPI\bin\Debug\net7.0\System.Runtime.Caching.dll
+C:\Users\CELL STUDIO\Desktop\AuthAPI\AuthAPI\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\CELL STUDIO\Desktop\AuthAPI\AuthAPI\bin\Debug\net7.0\System.Security.Permissions.dll
+C:\Users\CELL STUDIO\Desktop\AuthAPI\AuthAPI\bin\Debug\net7.0\System.Windows.Extensions.dll
+C:\Users\CELL STUDIO\Desktop\AuthAPI\AuthAPI\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\CELL STUDIO\Desktop\AuthAPI\AuthAPI\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\CELL STUDIO\Desktop\AuthAPI\AuthAPI\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\CELL STUDIO\Desktop\AuthAPI\AuthAPI\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\CELL STUDIO\Desktop\AuthAPI\AuthAPI\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\CELL STUDIO\Desktop\AuthAPI\AuthAPI\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\CELL STUDIO\Desktop\AuthAPI\AuthAPI\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\CELL STUDIO\Desktop\AuthAPI\AuthAPI\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\CELL STUDIO\Desktop\AuthAPI\AuthAPI\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\CELL STUDIO\Desktop\AuthAPI\AuthAPI\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\CELL STUDIO\Desktop\AuthAPI\AuthAPI\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\CELL STUDIO\Desktop\AuthAPI\AuthAPI\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\CELL STUDIO\Desktop\AuthAPI\AuthAPI\obj\Debug\net7.0\AuthAPI.csproj.AssemblyReference.cache
+C:\Users\CELL STUDIO\Desktop\AuthAPI\AuthAPI\obj\Debug\net7.0\AuthAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\CELL STUDIO\Desktop\AuthAPI\AuthAPI\obj\Debug\net7.0\AuthAPI.AssemblyInfoInputs.cache
+C:\Users\CELL STUDIO\Desktop\AuthAPI\AuthAPI\obj\Debug\net7.0\AuthAPI.AssemblyInfo.cs
+C:\Users\CELL STUDIO\Desktop\AuthAPI\AuthAPI\obj\Debug\net7.0\AuthAPI.csproj.CoreCompileInputs.cache
+C:\Users\CELL STUDIO\Desktop\AuthAPI\AuthAPI\obj\Debug\net7.0\AuthAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\CELL STUDIO\Desktop\AuthAPI\AuthAPI\obj\Debug\net7.0\AuthAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\CELL STUDIO\Desktop\AuthAPI\AuthAPI\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\CELL STUDIO\Desktop\AuthAPI\AuthAPI\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\CELL STUDIO\Desktop\AuthAPI\AuthAPI\obj\Debug\net7.0\staticwebassets\msbuild.AuthAPI.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\CELL STUDIO\Desktop\AuthAPI\AuthAPI\obj\Debug\net7.0\staticwebassets\msbuild.build.AuthAPI.props
+C:\Users\CELL STUDIO\Desktop\AuthAPI\AuthAPI\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.AuthAPI.props
+C:\Users\CELL STUDIO\Desktop\AuthAPI\AuthAPI\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.AuthAPI.props
+C:\Users\CELL STUDIO\Desktop\AuthAPI\AuthAPI\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\CELL STUDIO\Desktop\AuthAPI\AuthAPI\obj\Debug\net7.0\scopedcss\bundle\AuthAPI.styles.css
+C:\Users\CELL STUDIO\Desktop\AuthAPI\AuthAPI\obj\Debug\net7.0\AuthAPI.csproj.CopyComplete
+C:\Users\CELL STUDIO\Desktop\AuthAPI\AuthAPI\obj\Debug\net7.0\AuthAPI.dll
+C:\Users\CELL STUDIO\Desktop\AuthAPI\AuthAPI\obj\Debug\net7.0\refint\AuthAPI.dll
+C:\Users\CELL STUDIO\Desktop\AuthAPI\AuthAPI\obj\Debug\net7.0\AuthAPI.pdb
+C:\Users\CELL STUDIO\Desktop\AuthAPI\AuthAPI\obj\Debug\net7.0\AuthAPI.genruntimeconfig.cache
+C:\Users\CELL STUDIO\Desktop\AuthAPI\AuthAPI\obj\Debug\net7.0\ref\AuthAPI.dll
+C:\Users\CELL STUDIO\Desktop\Master Files\AuthAPI2\AuthAPI\AuthAPI\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\CELL STUDIO\Desktop\Master Files\AuthAPI2\AuthAPI\AuthAPI\bin\Debug\net7.0\appsettings.json
+C:\Users\CELL STUDIO\Desktop\Master Files\AuthAPI2\AuthAPI\AuthAPI\bin\Debug\net7.0\AuthAPI.exe
+C:\Users\CELL STUDIO\Desktop\Master Files\AuthAPI2\AuthAPI\AuthAPI\bin\Debug\net7.0\AuthAPI.deps.json
+C:\Users\CELL STUDIO\Desktop\Master Files\AuthAPI2\AuthAPI\AuthAPI\bin\Debug\net7.0\AuthAPI.runtimeconfig.json
+C:\Users\CELL STUDIO\Desktop\Master Files\AuthAPI2\AuthAPI\AuthAPI\bin\Debug\net7.0\AuthAPI.dll
+C:\Users\CELL STUDIO\Desktop\Master Files\AuthAPI2\AuthAPI\AuthAPI\bin\Debug\net7.0\AuthAPI.pdb
+C:\Users\CELL STUDIO\Desktop\Master Files\AuthAPI2\AuthAPI\AuthAPI\bin\Debug\net7.0\Azure.Core.dll
+C:\Users\CELL STUDIO\Desktop\Master Files\AuthAPI2\AuthAPI\AuthAPI\bin\Debug\net7.0\Azure.Identity.dll
+C:\Users\CELL STUDIO\Desktop\Master Files\AuthAPI2\AuthAPI\AuthAPI\bin\Debug\net7.0\Humanizer.dll
+C:\Users\CELL STUDIO\Desktop\Master Files\AuthAPI2\AuthAPI\AuthAPI\bin\Debug\net7.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\CELL STUDIO\Desktop\Master Files\AuthAPI2\AuthAPI\AuthAPI\bin\Debug\net7.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\CELL STUDIO\Desktop\Master Files\AuthAPI2\AuthAPI\AuthAPI\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\CELL STUDIO\Desktop\Master Files\AuthAPI2\AuthAPI\AuthAPI\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\CELL STUDIO\Desktop\Master Files\AuthAPI2\AuthAPI\AuthAPI\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+C:\Users\CELL STUDIO\Desktop\Master Files\AuthAPI2\AuthAPI\AuthAPI\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\CELL STUDIO\Desktop\Master Files\AuthAPI2\AuthAPI\AuthAPI\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\CELL STUDIO\Desktop\Master Files\AuthAPI2\AuthAPI\AuthAPI\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\CELL STUDIO\Desktop\Master Files\AuthAPI2\AuthAPI\AuthAPI\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\CELL STUDIO\Desktop\Master Files\AuthAPI2\AuthAPI\AuthAPI\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\CELL STUDIO\Desktop\Master Files\AuthAPI2\AuthAPI\AuthAPI\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\CELL STUDIO\Desktop\Master Files\AuthAPI2\AuthAPI\AuthAPI\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+C:\Users\CELL STUDIO\Desktop\Master Files\AuthAPI2\AuthAPI\AuthAPI\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\CELL STUDIO\Desktop\Master Files\AuthAPI2\AuthAPI\AuthAPI\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\CELL STUDIO\Desktop\Master Files\AuthAPI2\AuthAPI\AuthAPI\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\CELL STUDIO\Desktop\Master Files\AuthAPI2\AuthAPI\AuthAPI\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\CELL STUDIO\Desktop\Master Files\AuthAPI2\AuthAPI\AuthAPI\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\CELL STUDIO\Desktop\Master Files\AuthAPI2\AuthAPI\AuthAPI\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\CELL STUDIO\Desktop\Master Files\AuthAPI2\AuthAPI\AuthAPI\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\CELL STUDIO\Desktop\Master Files\AuthAPI2\AuthAPI\AuthAPI\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Users\CELL STUDIO\Desktop\Master Files\AuthAPI2\AuthAPI\AuthAPI\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+C:\Users\CELL STUDIO\Desktop\Master Files\AuthAPI2\AuthAPI\AuthAPI\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\CELL STUDIO\Desktop\Master Files\AuthAPI2\AuthAPI\AuthAPI\bin\Debug\net7.0\Mono.TextTemplating.dll
+C:\Users\CELL STUDIO\Desktop\Master Files\AuthAPI2\AuthAPI\AuthAPI\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\CELL STUDIO\Desktop\Master Files\AuthAPI2\AuthAPI\AuthAPI\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\CELL STUDIO\Desktop\Master Files\AuthAPI2\AuthAPI\AuthAPI\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\CELL STUDIO\Desktop\Master Files\AuthAPI2\AuthAPI\AuthAPI\bin\Debug\net7.0\System.CodeDom.dll
+C:\Users\CELL STUDIO\Desktop\Master Files\AuthAPI2\AuthAPI\AuthAPI\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+C:\Users\CELL STUDIO\Desktop\Master Files\AuthAPI2\AuthAPI\AuthAPI\bin\Debug\net7.0\System.Drawing.Common.dll
+C:\Users\CELL STUDIO\Desktop\Master Files\AuthAPI2\AuthAPI\AuthAPI\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\CELL STUDIO\Desktop\Master Files\AuthAPI2\AuthAPI\AuthAPI\bin\Debug\net7.0\System.Memory.Data.dll
+C:\Users\CELL STUDIO\Desktop\Master Files\AuthAPI2\AuthAPI\AuthAPI\bin\Debug\net7.0\System.Runtime.Caching.dll
+C:\Users\CELL STUDIO\Desktop\Master Files\AuthAPI2\AuthAPI\AuthAPI\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\CELL STUDIO\Desktop\Master Files\AuthAPI2\AuthAPI\AuthAPI\bin\Debug\net7.0\System.Security.Permissions.dll
+C:\Users\CELL STUDIO\Desktop\Master Files\AuthAPI2\AuthAPI\AuthAPI\bin\Debug\net7.0\System.Windows.Extensions.dll
+C:\Users\CELL STUDIO\Desktop\Master Files\AuthAPI2\AuthAPI\AuthAPI\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\CELL STUDIO\Desktop\Master Files\AuthAPI2\AuthAPI\AuthAPI\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\CELL STUDIO\Desktop\Master Files\AuthAPI2\AuthAPI\AuthAPI\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\CELL STUDIO\Desktop\Master Files\AuthAPI2\AuthAPI\AuthAPI\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\CELL STUDIO\Desktop\Master Files\AuthAPI2\AuthAPI\AuthAPI\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\CELL STUDIO\Desktop\Master Files\AuthAPI2\AuthAPI\AuthAPI\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\CELL STUDIO\Desktop\Master Files\AuthAPI2\AuthAPI\AuthAPI\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\CELL STUDIO\Desktop\Master Files\AuthAPI2\AuthAPI\AuthAPI\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\CELL STUDIO\Desktop\Master Files\AuthAPI2\AuthAPI\AuthAPI\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\CELL STUDIO\Desktop\Master Files\AuthAPI2\AuthAPI\AuthAPI\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\CELL STUDIO\Desktop\Master Files\AuthAPI2\AuthAPI\AuthAPI\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\CELL STUDIO\Desktop\Master Files\AuthAPI2\AuthAPI\AuthAPI\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\CELL STUDIO\Desktop\Master Files\AuthAPI2\AuthAPI\AuthAPI\obj\Debug\net7.0\AuthAPI.csproj.AssemblyReference.cache
+C:\Users\CELL STUDIO\Desktop\Master Files\AuthAPI2\AuthAPI\AuthAPI\obj\Debug\net7.0\AuthAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\CELL STUDIO\Desktop\Master Files\AuthAPI2\AuthAPI\AuthAPI\obj\Debug\net7.0\AuthAPI.AssemblyInfoInputs.cache
+C:\Users\CELL STUDIO\Desktop\Master Files\AuthAPI2\AuthAPI\AuthAPI\obj\Debug\net7.0\AuthAPI.AssemblyInfo.cs
+C:\Users\CELL STUDIO\Desktop\Master Files\AuthAPI2\AuthAPI\AuthAPI\obj\Debug\net7.0\AuthAPI.csproj.CoreCompileInputs.cache
+C:\Users\CELL STUDIO\Desktop\Master Files\AuthAPI2\AuthAPI\AuthAPI\obj\Debug\net7.0\AuthAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\CELL STUDIO\Desktop\Master Files\AuthAPI2\AuthAPI\AuthAPI\obj\Debug\net7.0\AuthAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\CELL STUDIO\Desktop\Master Files\AuthAPI2\AuthAPI\AuthAPI\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\CELL STUDIO\Desktop\Master Files\AuthAPI2\AuthAPI\AuthAPI\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\CELL STUDIO\Desktop\Master Files\AuthAPI2\AuthAPI\AuthAPI\obj\Debug\net7.0\staticwebassets\msbuild.AuthAPI.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\CELL STUDIO\Desktop\Master Files\AuthAPI2\AuthAPI\AuthAPI\obj\Debug\net7.0\staticwebassets\msbuild.build.AuthAPI.props
+C:\Users\CELL STUDIO\Desktop\Master Files\AuthAPI2\AuthAPI\AuthAPI\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.AuthAPI.props
+C:\Users\CELL STUDIO\Desktop\Master Files\AuthAPI2\AuthAPI\AuthAPI\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.AuthAPI.props
+C:\Users\CELL STUDIO\Desktop\Master Files\AuthAPI2\AuthAPI\AuthAPI\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\CELL STUDIO\Desktop\Master Files\AuthAPI2\AuthAPI\AuthAPI\obj\Debug\net7.0\scopedcss\bundle\AuthAPI.styles.css
+C:\Users\CELL STUDIO\Desktop\Master Files\AuthAPI2\AuthAPI\AuthAPI\obj\Debug\net7.0\AuthAPI.csproj.CopyComplete
+C:\Users\CELL STUDIO\Desktop\Master Files\AuthAPI2\AuthAPI\AuthAPI\obj\Debug\net7.0\AuthAPI.dll
+C:\Users\CELL STUDIO\Desktop\Master Files\AuthAPI2\AuthAPI\AuthAPI\obj\Debug\net7.0\refint\AuthAPI.dll
+C:\Users\CELL STUDIO\Desktop\Master Files\AuthAPI2\AuthAPI\AuthAPI\obj\Debug\net7.0\AuthAPI.pdb
+C:\Users\CELL STUDIO\Desktop\Master Files\AuthAPI2\AuthAPI\AuthAPI\obj\Debug\net7.0\AuthAPI.genruntimeconfig.cache
+C:\Users\CELL STUDIO\Desktop\Master Files\AuthAPI2\AuthAPI\AuthAPI\obj\Debug\net7.0\ref\AuthAPI.dll
+C:\Users\CELL STUDIO\Desktop\Master Files\AuthAPI2\AuthAPI\AuthAPI\obj\Debug\net7.0\AuthAPI.sourcelink.json
+C:\Users\CELL STUDIO\Downloads\AuthAPI2 (2)\AuthAPI2\AuthAPI\AuthAPI\obj\Debug\net7.0\AuthAPI.csproj.AssemblyReference.cache
+C:\Users\CELL STUDIO\Downloads\AuthAPI2 (2)\AuthAPI2\AuthAPI\AuthAPI\obj\Debug\net7.0\AuthAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\CELL STUDIO\Downloads\AuthAPI2 (2)\AuthAPI2\AuthAPI\AuthAPI\obj\Debug\net7.0\AuthAPI.AssemblyInfoInputs.cache
+C:\Users\CELL STUDIO\Downloads\AuthAPI2 (2)\AuthAPI2\AuthAPI\AuthAPI\obj\Debug\net7.0\AuthAPI.AssemblyInfo.cs
+C:\Users\CELL STUDIO\Downloads\AuthAPI2 (2)\AuthAPI2\AuthAPI\AuthAPI\obj\Debug\net7.0\AuthAPI.csproj.CoreCompileInputs.cache
+C:\Users\CELL STUDIO\Downloads\AuthAPI2 (2)\AuthAPI2\AuthAPI\AuthAPI\obj\Debug\net7.0\AuthAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\CELL STUDIO\Downloads\AuthAPI2 (2)\AuthAPI2\AuthAPI\AuthAPI\obj\Debug\net7.0\AuthAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\CELL STUDIO\Downloads\AuthAPI2 (2)\AuthAPI2\AuthAPI\AuthAPI\obj\Debug\net7.0\AuthAPI.sourcelink.json
+C:\Users\CELL STUDIO\Downloads\AuthAPI2 (2)\AuthAPI2\AuthAPI\AuthAPI\obj\Debug\net7.0\AuthAPI.dll
+C:\Users\CELL STUDIO\Downloads\AuthAPI2 (2)\AuthAPI2\AuthAPI\AuthAPI\obj\Debug\net7.0\refint\AuthAPI.dll
+C:\Users\CELL STUDIO\Downloads\AuthAPI2 (2)\AuthAPI2\AuthAPI\AuthAPI\obj\Debug\net7.0\AuthAPI.pdb
+C:\Users\CELL STUDIO\Downloads\AuthAPI2 (2)\AuthAPI2\AuthAPI\AuthAPI\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\CELL STUDIO\Downloads\AuthAPI2 (2)\AuthAPI2\AuthAPI\AuthAPI\bin\Debug\net7.0\appsettings.json
+C:\Users\CELL STUDIO\Downloads\AuthAPI2 (2)\AuthAPI2\AuthAPI\AuthAPI\bin\Debug\net7.0\AuthAPI.exe
+C:\Users\CELL STUDIO\Downloads\AuthAPI2 (2)\AuthAPI2\AuthAPI\AuthAPI\bin\Debug\net7.0\AuthAPI.deps.json
+C:\Users\CELL STUDIO\Downloads\AuthAPI2 (2)\AuthAPI2\AuthAPI\AuthAPI\bin\Debug\net7.0\AuthAPI.runtimeconfig.json
+C:\Users\CELL STUDIO\Downloads\AuthAPI2 (2)\AuthAPI2\AuthAPI\AuthAPI\bin\Debug\net7.0\AuthAPI.dll
+C:\Users\CELL STUDIO\Downloads\AuthAPI2 (2)\AuthAPI2\AuthAPI\AuthAPI\bin\Debug\net7.0\AuthAPI.pdb
+C:\Users\CELL STUDIO\Downloads\AuthAPI2 (2)\AuthAPI2\AuthAPI\AuthAPI\bin\Debug\net7.0\Azure.Core.dll
+C:\Users\CELL STUDIO\Downloads\AuthAPI2 (2)\AuthAPI2\AuthAPI\AuthAPI\bin\Debug\net7.0\Azure.Identity.dll
+C:\Users\CELL STUDIO\Downloads\AuthAPI2 (2)\AuthAPI2\AuthAPI\AuthAPI\bin\Debug\net7.0\Humanizer.dll
+C:\Users\CELL STUDIO\Downloads\AuthAPI2 (2)\AuthAPI2\AuthAPI\AuthAPI\bin\Debug\net7.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\CELL STUDIO\Downloads\AuthAPI2 (2)\AuthAPI2\AuthAPI\AuthAPI\bin\Debug\net7.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\CELL STUDIO\Downloads\AuthAPI2 (2)\AuthAPI2\AuthAPI\AuthAPI\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\CELL STUDIO\Downloads\AuthAPI2 (2)\AuthAPI2\AuthAPI\AuthAPI\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\CELL STUDIO\Downloads\AuthAPI2 (2)\AuthAPI2\AuthAPI\AuthAPI\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+C:\Users\CELL STUDIO\Downloads\AuthAPI2 (2)\AuthAPI2\AuthAPI\AuthAPI\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\CELL STUDIO\Downloads\AuthAPI2 (2)\AuthAPI2\AuthAPI\AuthAPI\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\CELL STUDIO\Downloads\AuthAPI2 (2)\AuthAPI2\AuthAPI\AuthAPI\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\CELL STUDIO\Downloads\AuthAPI2 (2)\AuthAPI2\AuthAPI\AuthAPI\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\CELL STUDIO\Downloads\AuthAPI2 (2)\AuthAPI2\AuthAPI\AuthAPI\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\CELL STUDIO\Downloads\AuthAPI2 (2)\AuthAPI2\AuthAPI\AuthAPI\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\CELL STUDIO\Downloads\AuthAPI2 (2)\AuthAPI2\AuthAPI\AuthAPI\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+C:\Users\CELL STUDIO\Downloads\AuthAPI2 (2)\AuthAPI2\AuthAPI\AuthAPI\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\CELL STUDIO\Downloads\AuthAPI2 (2)\AuthAPI2\AuthAPI\AuthAPI\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\CELL STUDIO\Downloads\AuthAPI2 (2)\AuthAPI2\AuthAPI\AuthAPI\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\CELL STUDIO\Downloads\AuthAPI2 (2)\AuthAPI2\AuthAPI\AuthAPI\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\CELL STUDIO\Downloads\AuthAPI2 (2)\AuthAPI2\AuthAPI\AuthAPI\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\CELL STUDIO\Downloads\AuthAPI2 (2)\AuthAPI2\AuthAPI\AuthAPI\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\CELL STUDIO\Downloads\AuthAPI2 (2)\AuthAPI2\AuthAPI\AuthAPI\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\CELL STUDIO\Downloads\AuthAPI2 (2)\AuthAPI2\AuthAPI\AuthAPI\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Users\CELL STUDIO\Downloads\AuthAPI2 (2)\AuthAPI2\AuthAPI\AuthAPI\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+C:\Users\CELL STUDIO\Downloads\AuthAPI2 (2)\AuthAPI2\AuthAPI\AuthAPI\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\CELL STUDIO\Downloads\AuthAPI2 (2)\AuthAPI2\AuthAPI\AuthAPI\bin\Debug\net7.0\Mono.TextTemplating.dll
+C:\Users\CELL STUDIO\Downloads\AuthAPI2 (2)\AuthAPI2\AuthAPI\AuthAPI\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\CELL STUDIO\Downloads\AuthAPI2 (2)\AuthAPI2\AuthAPI\AuthAPI\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\CELL STUDIO\Downloads\AuthAPI2 (2)\AuthAPI2\AuthAPI\AuthAPI\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\CELL STUDIO\Downloads\AuthAPI2 (2)\AuthAPI2\AuthAPI\AuthAPI\bin\Debug\net7.0\System.CodeDom.dll
+C:\Users\CELL STUDIO\Downloads\AuthAPI2 (2)\AuthAPI2\AuthAPI\AuthAPI\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+C:\Users\CELL STUDIO\Downloads\AuthAPI2 (2)\AuthAPI2\AuthAPI\AuthAPI\bin\Debug\net7.0\System.Drawing.Common.dll
+C:\Users\CELL STUDIO\Downloads\AuthAPI2 (2)\AuthAPI2\AuthAPI\AuthAPI\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\CELL STUDIO\Downloads\AuthAPI2 (2)\AuthAPI2\AuthAPI\AuthAPI\bin\Debug\net7.0\System.Memory.Data.dll
+C:\Users\CELL STUDIO\Downloads\AuthAPI2 (2)\AuthAPI2\AuthAPI\AuthAPI\bin\Debug\net7.0\System.Runtime.Caching.dll
+C:\Users\CELL STUDIO\Downloads\AuthAPI2 (2)\AuthAPI2\AuthAPI\AuthAPI\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\CELL STUDIO\Downloads\AuthAPI2 (2)\AuthAPI2\AuthAPI\AuthAPI\bin\Debug\net7.0\System.Security.Permissions.dll
+C:\Users\CELL STUDIO\Downloads\AuthAPI2 (2)\AuthAPI2\AuthAPI\AuthAPI\bin\Debug\net7.0\System.Windows.Extensions.dll
+C:\Users\CELL STUDIO\Downloads\AuthAPI2 (2)\AuthAPI2\AuthAPI\AuthAPI\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\CELL STUDIO\Downloads\AuthAPI2 (2)\AuthAPI2\AuthAPI\AuthAPI\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\CELL STUDIO\Downloads\AuthAPI2 (2)\AuthAPI2\AuthAPI\AuthAPI\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\CELL STUDIO\Downloads\AuthAPI2 (2)\AuthAPI2\AuthAPI\AuthAPI\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\CELL STUDIO\Downloads\AuthAPI2 (2)\AuthAPI2\AuthAPI\AuthAPI\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\CELL STUDIO\Downloads\AuthAPI2 (2)\AuthAPI2\AuthAPI\AuthAPI\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\CELL STUDIO\Downloads\AuthAPI2 (2)\AuthAPI2\AuthAPI\AuthAPI\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\CELL STUDIO\Downloads\AuthAPI2 (2)\AuthAPI2\AuthAPI\AuthAPI\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\CELL STUDIO\Downloads\AuthAPI2 (2)\AuthAPI2\AuthAPI\AuthAPI\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\CELL STUDIO\Downloads\AuthAPI2 (2)\AuthAPI2\AuthAPI\AuthAPI\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\CELL STUDIO\Downloads\AuthAPI2 (2)\AuthAPI2\AuthAPI\AuthAPI\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\CELL STUDIO\Downloads\AuthAPI2 (2)\AuthAPI2\AuthAPI\AuthAPI\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\CELL STUDIO\Downloads\AuthAPI2 (2)\AuthAPI2\AuthAPI\AuthAPI\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\CELL STUDIO\Downloads\AuthAPI2 (2)\AuthAPI2\AuthAPI\AuthAPI\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\CELL STUDIO\Downloads\AuthAPI2 (2)\AuthAPI2\AuthAPI\AuthAPI\obj\Debug\net7.0\staticwebassets\msbuild.AuthAPI.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\CELL STUDIO\Downloads\AuthAPI2 (2)\AuthAPI2\AuthAPI\AuthAPI\obj\Debug\net7.0\staticwebassets\msbuild.build.AuthAPI.props
+C:\Users\CELL STUDIO\Downloads\AuthAPI2 (2)\AuthAPI2\AuthAPI\AuthAPI\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.AuthAPI.props
+C:\Users\CELL STUDIO\Downloads\AuthAPI2 (2)\AuthAPI2\AuthAPI\AuthAPI\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.AuthAPI.props
+C:\Users\CELL STUDIO\Downloads\AuthAPI2 (2)\AuthAPI2\AuthAPI\AuthAPI\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\CELL STUDIO\Downloads\AuthAPI2 (2)\AuthAPI2\AuthAPI\AuthAPI\obj\Debug\net7.0\scopedcss\bundle\AuthAPI.styles.css
+C:\Users\CELL STUDIO\Downloads\AuthAPI2 (2)\AuthAPI2\AuthAPI\AuthAPI\obj\Debug\net7.0\AuthAPI.csproj.CopyComplete
+C:\Users\CELL STUDIO\Downloads\AuthAPI2 (2)\AuthAPI2\AuthAPI\AuthAPI\obj\Debug\net7.0\AuthAPI.genruntimeconfig.cache
+C:\Users\CELL STUDIO\Downloads\AuthAPI2 (2)\AuthAPI2\AuthAPI\AuthAPI\obj\Debug\net7.0\ref\AuthAPI.dll
